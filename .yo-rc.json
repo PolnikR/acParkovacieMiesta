@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.16.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.0",
+    "libraryName": "ac-parkovacie-miesta",
+    "libraryId": "ae09d7b2-f480-4cd9-92f1-910b406fdaa0",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "ac-parkovacie-miesta",
+    "solutionShortDescription": "ac-parkovacie-miesta description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

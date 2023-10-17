@@ -1,0 +1,28 @@
+{
+    "Buttons": {
+      "Save": "OK",
+      "Edit": "Upraviť",
+      "Close": "Zrušiť",
+      "StartProcess": "Spustiť proces",
+      "DialogClose": "Zatvoriť"
+    },
+    "Cards": {
+      "RenderError": "Prepáčte, niečo sa pokazilo s touto kartou formuláru. Táto karta sa nedá zobraziť správne.",
+      "ThisField": "toto pole",
+      "PleaseFill": "Prosím vyplňte",
+      "Select": "Vyberte",
+      "Placeholder": "Začnite písať...",
+      "ThisValue": "Táto hodnota",
+      "CanNotLower": "nemôže byť menšia než",
+      "CanNotHigher": "nemôže byť väčšia než"
+    },
+    "Form": {
+      "DialogTitleError": "Vyskytly sa chyby počas odosielania formuláru:",
+      "DisplaySubmitError": "Nemôžete odoslať formulár v móde zobrazenia.",
+      "FormSubmitError": "Formulár nie je vyplnený správne.",
+      "ETagValueError": "Nesprávna hodnota ETag počas odosielania formuláru. Prosím Znova načítajte stránku a skúste znova."
+    },
+    "Helper": {
+      "UserNotFound": "Nepodarilo sa nájsť zadaného používateľa"
+    }
+  }

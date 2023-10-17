@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ac-parkovacie-miesta-client-side-solution",
+    "id": "ae09d7b2-f480-4cd9-92f1-910b406fdaa0",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "ac-parkovacie-miesta description"
+      },
+      "longDescription": {
+        "default": "ac-parkovacie-miesta description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "ac-parkovacie-miesta Feature",
+        "description": "The feature that activates elements of the ac-parkovacie-miesta solution.",
+        "id": "fec2e763-3cd6-4315-885a-422f2a40fe31",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/ac-parkovacie-miesta.sppkg"
+  }
+}

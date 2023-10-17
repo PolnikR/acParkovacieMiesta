@@ -1,0 +1,28 @@
+{
+    "Buttons": {
+      "Save": "Save",
+      "Edit": "Edit",
+      "Close": "Close",
+      "StartProcess": "Start process",
+      "DialogClose": "Close"
+    },
+    "Cards": {
+      "RenderError": "Sorry, something went wrong with this form card. This card can not be rendered properly.",
+      "ThisField": "this field",
+      "PleaseFill": "Please fill",
+      "Select": "Select",
+      "Placeholder": "Start Typing...",
+      "ThisValue": "This value",
+      "CanNotLower": "can not be lower than",
+      "CanNotHigher": "can not be higher than"
+    },
+    "Form": {
+      "DialogTitleError": "There were errors while submitting the form:",
+      "DisplaySubmitError": "You can not submit form in Display mode.",
+      "FormSubmitError": "The form is not filled correctly.",
+      "ETagValueError": "ETag value mismatch during form submission. Please reload the site and re-submit."
+    },
+    "Helper": {
+      "UserNotFound": "User not found."
+    }
+  }
